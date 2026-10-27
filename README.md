@@ -72,15 +72,5 @@ Estudo de viabilidade de mais de 30 indicadores, EDA em notebooks e camada de st
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.shion.dev/api?username=JoaoPedroBalduino&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)
-
-![Streak](https://streak-stats.demolab.com/?user=JoaoPedroBalduino&theme=shadow_green&hide_border=false)
-
-![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=JoaoPedroBalduino&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/JoaoPedroBalduino)
 ![Profile Views](https://komarev.com/ghpvc/?username=JoaoPedroBalduino&color=3&style=for-the-badge)
